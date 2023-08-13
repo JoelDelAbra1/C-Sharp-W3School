@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "String y Boolean/1.0.0": {
+        "runtime": {
+          "String y Boolean.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "String y Boolean/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

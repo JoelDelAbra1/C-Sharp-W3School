@@ -1,0 +1,15 @@
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\bin\Debug\net6.0\String y Boolean.exe
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\bin\Debug\net6.0\String y Boolean.deps.json
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\bin\Debug\net6.0\String y Boolean.runtimeconfig.json
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\bin\Debug\net6.0\String y Boolean.dll
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\bin\Debug\net6.0\String y Boolean.pdb
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\obj\Debug\net6.0\String y Boolean.csproj.AssemblyReference.cache
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\obj\Debug\net6.0\String y Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\obj\Debug\net6.0\String y Boolean.AssemblyInfoInputs.cache
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\obj\Debug\net6.0\String y Boolean.AssemblyInfo.cs
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\obj\Debug\net6.0\String y Boolean.csproj.CoreCompileInputs.cache
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\obj\Debug\net6.0\String y Boolean.dll
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\obj\Debug\net6.0\refint\String y Boolean.dll
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\obj\Debug\net6.0\String y Boolean.pdb
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\obj\Debug\net6.0\String y Boolean.genruntimeconfig.cache
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\String y Boolean\obj\Debug\net6.0\ref\String y Boolean.dll

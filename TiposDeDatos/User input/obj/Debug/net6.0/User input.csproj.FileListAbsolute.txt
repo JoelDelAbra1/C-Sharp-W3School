@@ -1,0 +1,15 @@
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\bin\Debug\net6.0\User input.exe
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\bin\Debug\net6.0\User input.deps.json
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\bin\Debug\net6.0\User input.runtimeconfig.json
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\bin\Debug\net6.0\User input.dll
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\bin\Debug\net6.0\User input.pdb
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\obj\Debug\net6.0\User input.csproj.AssemblyReference.cache
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\obj\Debug\net6.0\User input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\obj\Debug\net6.0\User input.AssemblyInfoInputs.cache
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\obj\Debug\net6.0\User input.AssemblyInfo.cs
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\obj\Debug\net6.0\User input.csproj.CoreCompileInputs.cache
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\obj\Debug\net6.0\User input.dll
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\obj\Debug\net6.0\refint\User input.dll
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\obj\Debug\net6.0\User input.pdb
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\obj\Debug\net6.0\User input.genruntimeconfig.cache
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\User input\obj\Debug\net6.0\ref\User input.dll
