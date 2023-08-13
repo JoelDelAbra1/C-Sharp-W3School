@@ -1,0 +1,15 @@
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\bin\Debug\net6.0\Lops y Condicionales.exe
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\bin\Debug\net6.0\Lops y Condicionales.deps.json
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\bin\Debug\net6.0\Lops y Condicionales.runtimeconfig.json
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\bin\Debug\net6.0\Lops y Condicionales.dll
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\bin\Debug\net6.0\Lops y Condicionales.pdb
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\obj\Debug\net6.0\Lops y Condicionales.csproj.AssemblyReference.cache
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\obj\Debug\net6.0\Lops y Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\obj\Debug\net6.0\Lops y Condicionales.AssemblyInfoInputs.cache
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\obj\Debug\net6.0\Lops y Condicionales.AssemblyInfo.cs
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\obj\Debug\net6.0\Lops y Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\obj\Debug\net6.0\Lops y Condicionales.dll
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\obj\Debug\net6.0\refint\Lops y Condicionales.dll
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\obj\Debug\net6.0\Lops y Condicionales.pdb
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\obj\Debug\net6.0\Lops y Condicionales.genruntimeconfig.cache
+C:\Users\joeld\OneDrive - Universidad Autonoma de Nuevo León\C-Sharp-W3School\TiposDeDatos\Lops y Condicionales\obj\Debug\net6.0\ref\Lops y Condicionales.dll
